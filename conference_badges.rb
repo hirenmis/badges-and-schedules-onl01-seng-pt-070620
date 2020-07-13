@@ -28,5 +28,7 @@ def printer
   batch_badge_creator.each do |tag|
     puts tag
   end
-  return 
+end
+
+
   
