@@ -29,8 +29,8 @@ def printer
     puts tag
   end
 
-assign_rooms(array).each do |id|
-    puts id 
+assign_rooms(array).each do |tag|
+    puts tag
   end
 end 
 
