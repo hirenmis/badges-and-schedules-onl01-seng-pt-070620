@@ -5,10 +5,10 @@ def badge_maker(name)
 end
 
 
-  def batch_badge_creator(array)
-  n = []
+def batch_badge_creator(array)
+  badges = []
   array.each do |name|
-    nuarray.push("Hello, my name is #{name}.")
-  end
-  return nuarray
+    badges << "Hello, my name is #{name}."
+   end
+ return nuarray
 end
