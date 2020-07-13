@@ -15,5 +15,6 @@ end
 
 def assign_rooms(array)
   rooms = []
+  counter = 1
   array.each do |
   
